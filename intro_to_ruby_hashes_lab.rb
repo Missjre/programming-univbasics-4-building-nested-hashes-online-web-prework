@@ -1,5 +1,5 @@
 def base_hash
-  new_music_artist_and_songs ={ 
+  new_music_artist_and_songs => { 
     : music_artist => {
       "Meg the Stallion" => {
         : song => 
