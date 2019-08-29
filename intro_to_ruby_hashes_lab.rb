@@ -5,7 +5,6 @@ def base_hash
         : song => 
         "Hot Girl Summer"
         }
-	
 end
 
 def monopoly_with_second_tier
