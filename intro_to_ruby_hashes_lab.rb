@@ -8,7 +8,12 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-  
+  new_music_artist_and_songs => { 
+    : music_artist => {
+      "Meg the Stallion" => {
+        : song => 
+        "Hot Girl Summer"
+        }
 end
 
 def monopoly_with_third_tier
