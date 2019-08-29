@@ -13,6 +13,11 @@ def monopoly_with_second_tier
       "Meg the Stallion" => {
         : song => 
         "Hot Girl Summer"
+    : music_artist => {
+      "Roddy Rich" => {
+        : song => 
+        "Ricch Forever"
+      }
         }
 end
 
